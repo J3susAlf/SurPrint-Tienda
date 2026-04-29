@@ -8,6 +8,7 @@ const productos = [
       "assets/Playeras/Playera1.1.jpeg",
       "assets/Playeras/Playera2.jpg",
       "assets/Playeras/Playera2.1.jpeg",
+      "assets/Playeras/Playera3.jpg",
     ],
     material: "Algodón + DTF",
     colores: "Blanco, Rojo, Negro, Azul, Verde",
